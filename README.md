@@ -1,10 +1,14 @@
 4-bit Single-Port RAM Design (Verilog)
+
 Project Overview
+
 This project implements a 4-bit wide Single-Port RAM using Verilog with:
+
 Synchronous read/write operations
 Asynchronous reset
 Basic testbench for verification
 The design focuses on understanding memory architecture, sequential logic, and address-based data access in VLSI systems.
+
 Objectives
 Design a Single-Port RAM
 
